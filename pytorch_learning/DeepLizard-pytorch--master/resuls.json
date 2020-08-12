@@ -1,0 +1,32 @@
+[
+    {
+        "run": 1,
+        "epoch": 1,
+        "loss": 0.4979858929912249,
+        "accuracy": 0.81965,
+        "epoch duration": 5.51041841506958,
+        "run duration": 6.089130640029907,
+        "lr": 0.01,
+        "batch_size": 1000,
+        "num_workers": 1,
+        "device": "cuda",
+        "trainsets": "normal",
+        "shuffle": true,
+        "network": "no_batch_norm"
+    },
+    {
+        "run": 2,
+        "epoch": 1,
+        "loss": 0.33854562491178514,
+        "accuracy": 0.8746666666666667,
+        "epoch duration": 5.359787940979004,
+        "run duration": 5.944750070571899,
+        "lr": 0.01,
+        "batch_size": 1000,
+        "num_workers": 1,
+        "device": "cuda",
+        "trainsets": "normal",
+        "shuffle": true,
+        "network": "batch_norm"
+    }
+]

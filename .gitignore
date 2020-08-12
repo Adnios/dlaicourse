@@ -1,3 +1,9 @@
 
 .DS_Store
 .ipynb_checkpoints/
+*.h5
+*.png
+*.jpg
+*.JPG
+pytorch_learning/DeepLizard-pytorch--master/runs/*
+pytorch_learning/DeepLizard-pytorch--master/data/*
